@@ -13,12 +13,12 @@ Source:
 - Columns Include: Year, District, Number of Cases
 
 ## Tools & Technologies
-**Environment:** Visual Studio Code
-**Languages:** Python
-**Libraries Used:**
-- Pandas (data manipulation)
-- Matplotlib & Seaborn (visualization)
-- NumPy (numerical operations)
+- **Environment:** Visual Studio Code
+- **Languages:** Python
+- **Libraries Used:**
+  - Pandas (data manipulation)
+  - Matplotlib & Seaborn (visualization)
+  - NumPy (numerical operations)
 
 ## Key Questions Addressed
 - Which districts are most affected in 2022?
