@@ -49,10 +49,10 @@ Source:
 
 **2. District-wise Cases in 2022**
 - Top Affected Districts:
-- Bhilwara – 301 cases
-- Bharatpur – high
-- Udaipur – high
-- Ajmer – 206 cases
+  - Bhilwara – 301 cases
+  - Bharatpur – high
+  - Udaipur – high
+  - Ajmer – 206 cases
 - **Insight:** Bhilwara alone reports nearly 100 more cases than Ajmer. These districts require focused interventions.
 
 **3. Comparison Among Districts**
