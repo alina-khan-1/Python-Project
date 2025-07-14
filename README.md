@@ -6,7 +6,8 @@ The objective of this project is to perform an Exploratory Data Analysis (EDA) o
 Identify year-over-year trends. Detect high-case districts. Measure case concentration gaps. Offer policy-focused suggestions. This project demonstrates proficiency in data cleaning, time-series trend analysis, geospatial insights, and visualization using Python tools.
 
 ## Dataset Used
-Source: - <a href = "https://github.com/alina-khan-1/Python-Project-Rajasthan-Rape-Cases/blob/main/Rajasthan_rape_district.csv">Rajasthan Rape District</a>
+Source: 
+- <a href = "https://github.com/alina-khan-1/Python-Project-Rajasthan-Rape-Cases/blob/main/Rajasthan_rape_district.csv">Rajasthan Rape District</a>
 - <a href = "https://github.com/alina-khan-1/Python-Project-Rajasthan-Rape-Cases/blob/main/Rajasthan_rape_yearly.csv">Rajasthan Rape Yearly</a>
 - Format: CSV
 - Columns Include: Year, District, Number of Cases
@@ -23,7 +24,7 @@ Source: - <a href = "https://github.com/alina-khan-1/Python-Project-Rajasthan-Ra
 - Which districts are most affected in 2022?
 - Is the trend increasing or decreasing over time?
 - Is there a large gap between the top districts and the rest?
-- What interventions might help reduce cases in future?
+- What interventions might help reduce cases in the future?
 
 ## Process Followed
 **1. Environment Setup** Installed Python and required libraries
@@ -52,10 +53,10 @@ Source: - <a href = "https://github.com/alina-khan-1/Python-Project-Rajasthan-Ra
 - Bharatpur – high
 - Udaipur – high
 - Ajmer – 206 cases
-**- Insight:** Bhilwara alone reports nearly 100 more cases than Ajmer. These districts require focused interventions.
+- **Insight:** Bhilwara alone reports nearly 100 more cases than Ajmer. These districts require focused interventions.
 
 **3. Comparison Among Districts**
-**Insight:** The gap between the top 5 districts and others is substantial, suggesting a highly uneven distribution. Some areas are much more affected than others.
+- **Insight:** The gap between the top 5 districts and others is substantial, suggesting a highly uneven distribution. Some areas are much more affected than others.
 
 ## 4. Policy Suggestions
 Based on insights, the following policy interventions are suggested:
